@@ -40,6 +40,9 @@ Welcome to the Hacktoberfest Flutter UI Challenge! This repository is open to al
 - Social Media Feed
 - Weather App UI
 - News App UI
+- Fitness Tracker UI
+- Multi streaming UI
+- Healthcare Assistant UI 
 - ... (Feel free to add more creative ideas!)
 
 
